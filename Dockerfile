@@ -1,3 +1,1 @@
-FROM debian:9
-
-
+FROM sonarqube:latest
