@@ -1,1 +1,1 @@
-FROM sonarqube:latest
+FROM javaee/springdemo
